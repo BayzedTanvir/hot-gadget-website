@@ -1,0 +1,122 @@
+.product-logo{
+    margin-top: 50px;
+}
+.navbar-brand img{
+    width: 150px;
+}
+.nav-item a{
+    font-weight: bold;
+    color: gray;
+}
+.buy-now-btn{
+    background-color: black;
+    color: white;
+    padding: 5px 20px;
+    border-radius: 10px;
+    border: none;
+    font-size: 18px;
+}
+span.arrow-sign{
+    font-family: arial;
+    font-size: 30px;
+    margin-left: 5px;
+}
+.carousel-indicators li {
+    background: gray none repeat scroll 0 0;
+    border: 0 none;
+    border-radius: 50%;
+    height: 12px;
+    margin: 3px;
+    opacity: 0.5;
+    width: 12px;
+  }
+  .carousel-indicators .active {
+    background: orange none repeat scroll 0 0;
+    border: none;
+    border-radius: 20px;
+    width: 40px;
+    height: 12px;
+  }
+  h2{
+      color: gray;
+  }
+  .see-all{
+      font-size: 20px;
+      color: orange;
+      font-weight: bold;
+      display: block;
+  }
+  .see-all:hover{
+      text-decoration: none;
+      color: orange;
+  }
+  .product-banner{
+      margin-bottom: 50px;
+  }
+  .card{
+      border: none;
+      box-shadow: 5px 5px 10px lightgray;
+      padding: 40px 0;
+  }
+  .card img{
+      width: 200px;
+  }
+  .card-body{
+      text-align: center;
+  }
+  .card-footer{
+      border-top: none;
+      background-color: white;
+  }
+  .phone-heading{
+      margin-bottom: 50px;
+      margin-top: 50px;
+  }
+  .bag{
+      height: 300px;
+      box-shadow: 5px 5px 30px lightgray;
+      border-radius: 0 20px 0 40px;
+  }
+  .beauty{
+      height: 300px;
+      box-shadow: 5px 5px 30px lightgray;
+  }
+  .shoe{
+      height: 300px;
+      box-shadow: 10px 10px 30px lightgray;
+  }
+  .category{
+      margin-top: 200px;
+      margin-bottom: 100px;
+  }
+ .category h2{
+    width: 155px;
+    margin: auto;
+ }
+ .category hr{
+     width: 140px;
+     height: 8px;
+     background-color: orange;
+     border-radius: 20px;
+     margin: auto;
+     margin-top: 8px;
+ }
+ .image-text{
+    box-shadow: 5px 5px 30px lightgray;
+    padding: 60px;
+    margin: 20px;
+ }
+ .image-text h2{
+    text-align: center;
+    margin-top: 40px;
+ }
+ .first{
+     border-radius: 5px 20px 0 40px;
+ }
+ .second{
+     border-radius: 20px 0 40px 0;
+ }
+ .last img{
+     margin-left: 100px;
+     width: 650px;
+ }
